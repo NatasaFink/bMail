@@ -24,7 +24,7 @@ h2 {
 }
 #login_square {
   width: 450px;
-	height: 290px;
+	height: 340px;
 	background: whitesmoke;
   margin: auto;
   padding-top:50px;
@@ -85,7 +85,7 @@ h2 {
 }
 #info {
   margin-top: 15px;
-  margin-left: 279px;
+  margin-left: 275px;
   margin-bottom: 80px;
 }
 #info a {
@@ -97,7 +97,7 @@ h2 {
   font-weight: bold;
   font-size:18px;
   display: block;
-  margin-left: 200px;
+  margin-left: 150px;
   margin-bottom: 35px;
 }
 #login a {
